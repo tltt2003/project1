@@ -1,0 +1,48 @@
+body{
+    font-size: 25px;
+}
+.picture {
+  display: flex;
+
+ }
+ .h2p{
+    height: 250px;
+    background-size: contain;
+    background-repeat:no-repeat;
+
+ }
+ .h3p{
+    height: 250px;
+    margin-left: 50%;
+    background-size: contain;
+    background-repeat:no-repeat;
+
+ }
+ .tun_pick{
+    margin-left: 40%;
+ }
+.pickyourself{
+    display: flex;
+}
+.tieude{
+    text-align: center;
+}
+.duc{
+    margin-left: 0%;
+    font-weight: 50%;
+/* display: flex; */
+}
+.introduction{
+    font-display: 60%;
+    display: flex;
+}
+.tun_introduction{
+    
+    margin-left: 50%;
+}
+.tun_contact{
+    margin-left: 55%;
+}
+h3{
+background-color: black;
+font-size: 1px;}
